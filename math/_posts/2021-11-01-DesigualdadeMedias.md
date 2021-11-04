@@ -14,4 +14,5 @@ $$
     \frac{a_1+a_2}{2} > \sqrt{a_1a_2}
 $$
 
-A demonstracao para o cas geral eh feia
+A demonstracao para o cas geral é feita por indução. Primeiro provamos para n=2.
+
